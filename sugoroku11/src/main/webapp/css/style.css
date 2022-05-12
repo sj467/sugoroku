@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body {
+	text-align: center;
+}
+
+.errorMsg {
+	color: red;
+}
+
+#rule {
+	background-color: #fffeee;
+}
+
+#start {
+	text-align: left;
+}
+
+#stage {
+	text-align: center;
+}
+
+#goal {
+	text-align: right;
+}
+
+#gameEnd {
+	text-align: right;
+}
+
+.block {
+	margin: auto;
+}
